@@ -2,7 +2,6 @@ apiVersion: kustomize.config.k8s.io/v1beta1
 kind: Kustomization
 resources:
 - tomcat.yaml
-- nginx.yaml
 images:
 - name: 627994959940.dkr.ecr.ap-northeast-2.amazonaws.com/kr-ecr
   newName: 627994959940.dkr.ecr.ap-northeast-2.amazonaws.com/kr-ecr
