@@ -5,6 +5,6 @@ resources:
 images:
 - name: 627994959940.dkr.ecr.ap-northeast-2.amazonaws.com/kr-ecr
   newName: 627994959940.dkr.ecr.ap-northeast-2.amazonaws.com/kr-ecr
-  newTag: 3ef8668c-1754045839
+  newTag: c3e76c97-1754232090
 - name: tomcat-svc
   newName: /
